@@ -1,6 +1,6 @@
 # Gestão da Manutenção
 
-Projetos voltados à gestão da manutenção.
+Projetos de gestão da manutenção.
 
 ## Painel de Gestão da Manutenção (SAP PM)
 
