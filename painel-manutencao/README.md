@@ -2,7 +2,7 @@
 
 Dashboard de indicadores de manutenção construído como projeto de portfólio de analista de manutenção. Calcula **MTBF, MTTR, Disponibilidade, Backlog, Aderência à programação semanal** e **corretivas fora da programação** a partir de uma base no formato SAP PM.
 
-> **Demo online:** [https://SEU-USUARIO.github.io/NOME-DO-REPOSITORIO/](https://leonardosilvars.github.io/Gestao-da-Manutencao/painel-manutencao/)
+> **Demo online:** https://leonardosilvars.github.io/Gestao-da-Manutencao/painel-manutencao/
 > Todos os dados são **fictícios**, gerados para este projeto. Nenhum dado real de empresa é usado.
 
 ![Visão Geral](docs/screenshots/visao-geral.png)
